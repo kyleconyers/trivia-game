@@ -1,0 +1,54 @@
+body {
+    background-color: green;
+}
+
+.outerBoxDisplay{
+    display:none;
+}
+h1{
+    text-align: center;
+}
+.startButton{
+    text-align: center;
+}
+.startButtonDisplay{
+    display: none;
+}
+.firstHead{
+    text-align: center;
+}
+
+.questionBoxDisplay{
+    display: none;
+}
+.questionBox{
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
+
+.buttonAnswer{
+    float: center;
+    display: inline;
+    text-align: center;
+}
+
+.finalBoxDisplay{
+    display: none
+}
+.finalBox{
+    padding-top: 40px;
+    text-align: center;
+    
+}
+
+.buttonColorDisplay{
+    background-color: blue;
+    
+}
+.buttonOne{
+
+}
+
